@@ -4,5 +4,17 @@
         "picSrc": "http://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
         "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "id": 1
+    },
+    {
+        "name": "Никита",
+        "picSrc": "https://placeholdit.imgix.net/~text?txtsize=11&txt=90%C3%9790&w=90&h=90",
+        "bio": "Lorem ipsum тра ля ля",
+        "id": 2
+    },
+    {
+        "name": "Василий",
+        "picSrc": "https://placeholdit.imgix.net/~text?txtsize=11&txt=90%C3%9790&w=90&h=90",
+        "bio": "Вася этой ещё один типчик",
+        "id": 3
     }
 ]
