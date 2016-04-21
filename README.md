@@ -82,5 +82,5 @@ getFromCache(event.request).catch(fetchAndPutToCache.bind(this, event.request))
 Меняем данную конструкцию:
 
 ```javascript
-fetchAndPutToCache(event.request)getFromCache(event.request).catch(fetchAndPutToCache.bind(this, event.request))
+getFromCache(event.request).catch(fetchAndPutToCache.bind(this, event.request))
 ```
